@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <rect width="900" height="560" rx="24" fill="#F8FBFF"/><rect x="44" y="42" width="812" height="476" rx="22" fill="#fff" stroke="#D7E2F0"/>
+  <text x="78" y="100" font-family="Inter,Arial" font-size="30" font-weight="800" fill="#102033">Lead Management Automation</text>
+  <g font-family="Inter,Arial" font-size="18" font-weight="700">
+    <rect x="86" y="172" width="170" height="90" rx="16" fill="#EFF6FF" stroke="#BFDBFE"/><text x="123" y="224" fill="#2563EB">Capture</text>
+    <rect x="366" y="172" width="170" height="90" rx="16" fill="#ECFDF5" stroke="#A7F3D0"/><text x="398" y="224" fill="#059669">Enrich</text>
+    <rect x="646" y="172" width="170" height="90" rx="16" fill="#FFFBEB" stroke="#FDE68A"/><text x="690" y="224" fill="#D97706">Route</text>
+    <rect x="226" y="350" width="170" height="90" rx="16" fill="#F5F3FF" stroke="#DDD6FE"/><text x="258" y="402" fill="#7C3AED">Score</text>
+    <rect x="506" y="350" width="170" height="90" rx="16" fill="#F0FDFA" stroke="#99F6E4"/><text x="535" y="402" fill="#0F766E">Follow up</text>
+  </g>
+  <path d="M256 217h110M536 217h110M451 262v42c0 26-20 46-46 46h-9M590 350h-84" stroke="#94A3B8" stroke-width="6" stroke-linecap="round" fill="none"/>
+</svg>

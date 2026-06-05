@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <rect width="900" height="560" rx="24" fill="#F8FBFF"/><rect x="44" y="42" width="812" height="476" rx="22" fill="#fff" stroke="#D7E2F0"/>
+  <text x="78" y="100" font-family="Inter,Arial" font-size="30" font-weight="800" fill="#102033">CRM Synchronization</text>
+  <rect x="100" y="170" width="210" height="220" rx="20" fill="#EFF6FF" stroke="#BFDBFE"/><rect x="590" y="170" width="210" height="220" rx="20" fill="#ECFDF5" stroke="#A7F3D0"/>
+  <text x="156" y="240" font-family="Inter,Arial" font-size="24" font-weight="800" fill="#2563EB">Sales CRM</text><text x="634" y="240" font-family="Inter,Arial" font-size="24" font-weight="800" fill="#059669">Ops Hub</text>
+  <path d="M310 250h280M590 310H310" stroke="#94A3B8" stroke-width="7" stroke-linecap="round"/><path d="m562 226 28 24-28 24M338 286l-28 24 28 24" fill="none" stroke="#94A3B8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="450" cy="280" r="42" fill="#2563EB"/><text x="427" y="291" font-family="Inter,Arial" font-size="24" font-weight="800" fill="#fff">API</text>
+</svg>

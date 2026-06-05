@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <rect width="900" height="560" rx="24" fill="#F8FBFF"/><rect x="44" y="42" width="812" height="476" rx="22" fill="#fff" stroke="#D7E2F0"/>
+  <text x="78" y="100" font-family="Inter,Arial" font-size="30" font-weight="800" fill="#102033">Invoice Processing Automation</text>
+  <rect x="95" y="158" width="220" height="270" rx="18" fill="#fff" stroke="#CBD5E1"/><rect x="126" y="202" width="150" height="16" rx="8" fill="#2563EB"/><rect x="126" y="250" width="124" height="14" rx="7" fill="#CBD5E1"/><rect x="126" y="286" width="148" height="14" rx="7" fill="#CBD5E1"/><rect x="126" y="322" width="96" height="14" rx="7" fill="#CBD5E1"/>
+  <rect x="420" y="188" width="150" height="88" rx="16" fill="#ECFDF5" stroke="#A7F3D0"/><text x="457" y="240" font-family="Inter,Arial" font-size="18" font-weight="800" fill="#059669">Extract</text>
+  <rect x="420" y="336" width="150" height="88" rx="16" fill="#FFFBEB" stroke="#FDE68A"/><text x="459" y="388" font-family="Inter,Arial" font-size="18" font-weight="800" fill="#D97706">Verify</text>
+  <rect x="660" y="252" width="150" height="88" rx="16" fill="#EFF6FF" stroke="#BFDBFE"/><text x="700" y="304" font-family="Inter,Arial" font-size="18" font-weight="800" fill="#2563EB">Sync</text>
+  <path d="M315 293h105M570 232c54 0 68 38 90 64M570 380c54 0 68-38 90-84" stroke="#94A3B8" stroke-width="6" stroke-linecap="round" fill="none"/>
+</svg>

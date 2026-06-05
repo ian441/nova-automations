@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <rect width="900" height="560" rx="24" fill="#F8FBFF"/><rect x="44" y="42" width="812" height="476" rx="22" fill="#fff" stroke="#D7E2F0"/>
+  <text x="78" y="100" font-family="Inter,Arial" font-size="30" font-weight="800" fill="#102033">Employee Onboarding Automation</text>
+  <circle cx="190" cy="270" r="86" fill="#EFF6FF" stroke="#BFDBFE"/><circle cx="450" cy="270" r="86" fill="#ECFDF5" stroke="#A7F3D0"/><circle cx="710" cy="270" r="86" fill="#FFFBEB" stroke="#FDE68A"/>
+  <g font-family="Inter,Arial" font-size="20" font-weight="800"><text x="149" y="277" fill="#2563EB">Profile</text><text x="410" y="277" fill="#059669">Access</text><text x="668" y="277" fill="#D97706">Tasks</text></g>
+  <path d="M276 270h88M536 270h88" stroke="#94A3B8" stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F8FBFF"/>
+  <circle cx="230" cy="120" r="220" fill="#DDF7F0"/>
+  <circle cx="1020" cy="500" r="260" fill="#DBEAFE"/>
+  <rect x="90" y="80" width="1020" height="470" rx="30" fill="#fff" stroke="#D7E2F0"/>
+  <text x="140" y="215" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="800" fill="#102033">Nova Automation</text>
+  <text x="140" y="300" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="600" fill="#2563EB">Automate Repetitive Work. Scale Faster.</text>
+  <text x="140" y="370" font-family="Inter, Arial, sans-serif" font-size="28" fill="#53657A">AI agents, Make.com, n8n, APIs, and custom integrations.</text>
+  <g transform="translate(720 170)">
+    <rect width="300" height="250" rx="22" fill="#F6F9FC" stroke="#D7E2F0"/>
+    <circle cx="72" cy="84" r="28" fill="#2563EB"/>
+    <circle cx="224" cy="84" r="28" fill="#13B981"/>
+    <circle cx="148" cy="178" r="28" fill="#F59E0B"/>
+    <path d="M100 92h96M85 108l46 48M211 108l-46 48" stroke="#102033" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>
